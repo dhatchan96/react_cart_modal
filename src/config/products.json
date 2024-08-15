@@ -1,0 +1,83 @@
+[
+    {
+      "Title": "Fancy Product",
+      "Currency": "$",
+      "rangeFrom": 40.00,
+      "rangeTo": 80.00,
+      "imageUrl" : "https://img.freepik.com/free-vector/realistic-ad-with-product-landing-page_52683-70870.jpg",
+      "inCart" : false
+    },
+    {
+      "Title": "Elegant Product",
+      "Currency": "$",
+      "rangeFrom": 50.00,
+      "rangeTo": 100.00,
+      "imageUrl" : "https://img.freepik.com/free-photo/transparent-skin-oil-droppers-arrangement-with-skin-care-cream-recipient_23-2148761421.jpg",
+      "inCart" : false
+    },
+    {
+      "Title": "Budget Product",
+      "Currency": "$",
+      "rangeFrom": 20.00,
+      "rangeTo": 40.00,
+      "imageUrl" : "https://img.freepik.com/free-photo/monochrome-beauty-product-skincare_23-2151307230.jpg",
+      "inCart" : false
+    },
+    {
+      "Title": "Premium Product",
+      "Currency": "$",
+      "rangeFrom": 100.00,
+      "rangeTo": 200.00,
+      "imageUrl" : "https://img.freepik.com/free-vector/beauty-product-skincare-icon_23-2148761420.jpg",
+      "inCart" : false
+    },
+    {
+      "Title": "Luxury Product",
+      "Currency": "$",
+      "rangeFrom": 200.00,
+      "rangeTo": 500.00,
+      "imageUrl" : "https://img.freepik.com/free-vector/beauty-product-skincare-icon_23-2148761420.jpg",
+      "inCart" : false
+    },
+    {
+      "Title": "Basic Product",
+      "Currency": "$",
+      "rangeFrom": 10.00,
+      "rangeTo": 30.00,
+      "imageUrl" : "https://img.freepik.com/free-vector/beauty-product-skincare-icon_23-2148761420.jpg",
+      "inCart" : false
+    },
+    {
+      "Title": "Midrange Product",
+      "Currency": "$",
+      "rangeFrom": 30.00,
+      "rangeTo": 70.00,
+      "imageUrl" : "https://img.freepik.com/free-vector/beauty-product-skincare-icon_23-2148761420.jpg",
+      "inCart" : false
+    },
+    {
+      "Title": "Economy Product",
+      "Currency": "$",
+      "rangeFrom": 5.00,
+      "rangeTo": 20.00,
+      "imageUrl" : "https://img.freepik.com/free-vector/beauty-product-skincare-icon_23-2148761420.jpg",
+      "inCart" : false
+    },
+    {
+      "Title": "Exclusive Product",
+      "Currency": "$",
+      "rangeFrom": 300.00,
+      "rangeTo": 600.00,
+      "imageUrl" : "https://img.freepik.com/free-vector/beauty-product-skincare-icon_23-2148761420.jpg",
+      "inCart" : false
+    },
+    {
+      "Title": "Value Product",
+      "Currency": "$",
+      "rangeFrom": 25.00,
+      "rangeTo": 50.00,
+      "imageUrl" : "https://img.freepik.com/free-vector/beauty-product-skincare-icon_23-2148761420.jpg",
+      "inCart" : false
+    }
+  ]
+  
